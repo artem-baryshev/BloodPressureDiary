@@ -14,8 +14,8 @@ identifiable information, including but not limited to User UID, User name. The 
 will be retained on your device and is not collected by me in any way.
 The app does use third party services that may collect information used to identify you.
 Link to privacy policy of third party service providers used by the app
-• Google Play Services
-• Firebase Analytics
+* Google Play Services
+* Firebase Analytics
 ## Log Data
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data
 and information (through third party products) on your phone called Log Data. This Log Data may
@@ -32,10 +32,10 @@ either accept or refuse these cookies and know when a cookie is being sent to yo
 choose to refuse our cookies, you may not be able to use some portions of this Service.
 ## Service Providers
 I may employ third-party companies and individuals due to the following reasons:
-•To facilitate our Service;
-•To provide the Service on our behalf;
-•To perform Service-related services; or
-•To assist us in analyzing how our Service is used.
+* To facilitate our Service;
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.
 I want to inform users of this Service that these third parties have access to your Personal Information.
 The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to
 disclose or use the information for any other purpose.
